@@ -17,7 +17,7 @@ to decrypt the files run the command: "python3 decerypt.py"
 the code by defualt is 69420 but you can change it in the "decrypt.py" file by chaning the "code" variable
 
 ## IMPORTANT
-Do not change the name of the files or change the code. If you do none of the programs will work.
+Do not change the name of the files or change the code. If you do none of the scripts will work.
 
 ## DISCLAIMER
 This is for educations purposes only. Do not use this to hack anyone.
